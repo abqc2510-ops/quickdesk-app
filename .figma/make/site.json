@@ -1,0 +1,10 @@
+{
+  "description": "QuickDesk enhances customer support with an AI assistant that streamlines communication, providing quick responses and efficient issue resolution for users.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
